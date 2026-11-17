@@ -1,6 +1,6 @@
 # replay-toolkit
 
-Turn parsed Fortnite replay data into match and tournament-round reports. Built to support Clutch, the competitive Fortnite tracker for fans and players.
+Turn parsed Fortnite replay data into match and tournament-round reports.
 
 ## Try it
 
